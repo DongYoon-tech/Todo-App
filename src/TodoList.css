@@ -1,0 +1,10 @@
+.TodoList{
+    text-align: center;
+  
+}
+
+ul{
+    /* margin: auto; */
+    padding-left: 30%;
+    padding-right: 30%;
+}

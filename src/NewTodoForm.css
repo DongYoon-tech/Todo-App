@@ -1,0 +1,18 @@
+.NewTodoForm{
+    border: 2px solid green;
+    padding: 20px;
+    margin: 0;
+}
+
+label{
+    padding: 15px;
+    font-size: 20px;
+    font-family:Verdana;
+}
+
+.NewTodoForm-btn{
+    margin-left: 15px;
+    font-family:Verdana;
+    font-weight: bold;
+    
+}
